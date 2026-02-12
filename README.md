@@ -40,7 +40,7 @@ This project is the last project of the [Hive Helsinki](https://www.hive.fi/) **
 
 This project is containerized using **Docker** and **Docker Compose**.
 
-- **Frontend:** React, Vite
+- **Frontend:** React, TypeScript, Tailwind CSS, Vite
 - **Backend:** TypeScript, Node.js, Fastify
 - **Database:** SQLite
 - **DevOps:** Nginx (Reverse Proxy), Docker, Docker Compose
